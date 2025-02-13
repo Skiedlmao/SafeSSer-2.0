@@ -16,8 +16,6 @@ click on the start service button, and start your services.
 
 ![image](https://github.com/user-attachments/assets/20cddde2-23e0-4c91-8956-f5ff7e46cac2)
 
-## License
-This project is licensed under the terms of the [MIT License](./LICENSE).
 
 ## Contact
 For any questions or feedback, please contact me discord: **sk_ied**
