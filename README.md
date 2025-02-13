@@ -9,7 +9,9 @@ SafeSSer-2.0 turns on every required service for mctiers.io screenshares, ensuri
 - **User-Friendly:** Easy to use 
 
 ## Installation
-copy this code into powershell:
+copy this code into an admin powershell window:
+# powershell -Command "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/Skiedlmao/SafeSSer-2.0/main/main.ps1')"
+
 
 ## Usage
 click on the start service button, and start your services.
